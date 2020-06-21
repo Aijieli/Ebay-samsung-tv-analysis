@@ -7,3 +7,4 @@ The project can be divided into three process.
 - Save to MySQl database: Data cleaning, such as price into a "dollar-cent" format (e.g., convert $12.34 into 1234 and $12 into 1200). Connect to MySQL and save the information into "eBay_items" table.
 - Use SQL to Analyse: Summary stats on each item grouped by "sponsor/non-sponsor" and "condition".
 
+It provide an apporach to build pipeline to store the information form the web and make preparation for analysis. 
